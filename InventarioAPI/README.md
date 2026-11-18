@@ -110,7 +110,3 @@ Las operaciones fueron verificadas mediante Swagger, incluyendo:
 - Validación de stock y precio.
 - Validación de categorías inexistentes.
 - Restricción de eliminación de categorías con productos asociados.
-
-## Autor
-
-Proyecto académico desarrollado para la asignatura **Programación Orientada por Eventos Avanzada - Visual Basic**.
